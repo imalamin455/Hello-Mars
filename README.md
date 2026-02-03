@@ -1,2 +1,2 @@
-# Hello-Mars
-This respository practicing the Github Flow
+# Learning GitHub
+This repository is for practicing GitHub basics.
